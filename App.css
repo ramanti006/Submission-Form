@@ -1,0 +1,54 @@
+body {
+  background: #dfdde2;
+  text-align: center;
+}
+#fr
+{
+  text-align: center;
+  color : green;
+  font-weight: bold;
+  background-color: pink;
+  border: 1px solid rgb(161, 94, 116);
+  padding: 1px 32px;
+}
+
+#Name
+{
+  background-color: rgb(204, 125, 152);
+  border: round rgb(62, 80, 62);
+  color: white;
+  padding: 6px 50px;
+  margin: 2px 2px;
+  
+}
+
+.WholeBody
+{
+  
+    background-color: #fff;
+    border-radius: 15px;
+    box-shadow: 0 0 20px rgba(0, 0, 0, 0.2);
+    padding: 10px 10px;
+    transition: transform 0.2s;
+    width: 400px;
+    text-align: left;
+    margin: auto;
+    margin-top: 20px;
+
+}
+
+.reset
+{
+  background-color : green;
+  color: white;
+  padding :6px 5px;
+  margin: 2px 2px;
+}
+
+.submit
+{
+  background-color : green;
+  color: white;
+  padding :6px 5px;
+  margin: 2px 2px;
+}
